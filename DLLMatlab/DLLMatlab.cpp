@@ -1,5 +1,5 @@
 // DLLMatlab.cpp : 定义控制台应用程序的入口点。
-//
+//matlab 与Vs混合编程
 
 #include "stdafx.h"
 
